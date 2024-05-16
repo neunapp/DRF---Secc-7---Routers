@@ -1,0 +1,35 @@
+# Archivos y directorios específicos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+env36/
+ENV/
+
+# Archivos generados por IDEs
+.idea/
+.vscode/
+
+# Archivos de logs
+*.log
+
+# Archivos de base de datos
+*.sqlite3
+
+# Archivos de cache
+*.pyc
+
+# Archivos compilados
+*.pyc
+
+# Archivos de configuración local (no los subas al repositorio)
+*.env
+
+# Archivos generados al correr tests
+.coverage
+
+**/migrations/
